@@ -38,7 +38,7 @@ I am an open-source enthusiast with a strong foundation in cloud computing, DevO
 ## 💼 Work Experience
 
 **GirlScript Summer of Code | GSsoC'24**  
-_Open Source Contributor_ | May 2024 - Present  
+_Open Source Contributor_ | May 2024 - August 2024  
 - Contributing to various open-source projects by implementing features, optimizing code, and resolving issues.
 - Organizing community events that foster innovation, teamwork, collaboration, and growth.
 - Engaging in project discussions and contributing insights and ideas for success.
